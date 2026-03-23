@@ -1,7 +1,7 @@
 {
   "todos": [
     {
-      "title": "Estudar composition API",
+      "title": "Estudar composition API ",
       "completed": true,
       "id": "6263"
     },
@@ -9,11 +9,6 @@
       "title": "Estudar Vue.js",
       "completed": true,
       "id": "375f"
-    },
-    {
-      "title": "Test",
-      "completed": false,
-      "id": "38d5"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
